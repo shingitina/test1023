@@ -6,3 +6,4 @@ middle-line
 8
 new-line:2020/10/23 #1
 new-line:2020/10/23 #2
+new-line:2020/10/23 #3
